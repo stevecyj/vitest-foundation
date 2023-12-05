@@ -70,5 +70,5 @@ afterAll(() => {
 // 功能
 // 1. xxx add
 // 2. xxx delete
-test.todo("add");
-test.todo("delete");
+// test.todo("add");
+// test.todo("delete");
